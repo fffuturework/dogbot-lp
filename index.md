@@ -1,72 +1,34 @@
-# LINEでかんたんワンタイムリマインダーを送れるbot Dog reminder
+# 日々の面倒なルーチンワークをらくらく自動化 Dog bot
 ![logo](https://fffuture.work/dogreminder/images/logo.jpg)
 
 # こんなことはありませんか
 
-「予定を調整したいので、調整さんに入力おねがいします」
+「毎週土日にカーシェアを予約している」
 
-「まだ入力してないみたいですが、早急にお願いします」
+「二週間後の予約からできるので、毎週土日にウェブをポチポチ」
 
-「宿題やったの？」
+「あ、日付間違えちゃった」
 
-「ゴミ出し忘れないでね」
+「あ、予約し忘れてた。もう車借りられないや」
 
-![01](https://fffuture.work/dogreminder/images/01.png)
+![01](./images/jikan_tobu_man.png)
 
-# LINEで友だちになって、リマインドおくればいいけど。。。
+# そんなときは　Dog bot まずは違いを御覧ください!
 
 ![02](https://fffuture.work/dogreminder/images/02.png)
 
+これで面倒な作業から開放されます。
 
-これでもう，お願いした人が締切りや予定を忘れることはありません。
+さぁあなたも Dog botを始めてみませんか
 
-さぁあなたも Dog reminderを始めてみませんか
+# クローズドβテスト参加方法のご案内
 
-# そんなあなたに Dog reminder あなたにかわってリマインダーを相手に送ります
+現在開発中ですのでユーザを絞って限定公開しています。
 
-![03](https://fffuture.work/dogreminder/images/03.png)
+ご利用になられるにはクローズドβテスト参加ください
 
-# はじめかた
+## 参加方法
 
-![04](https://fffuture.work/dogreminder/images/04.png)
-
-"あなた"と"あいて"両方 Dog reminder　とLINEで友達になってください
-
-![QRCode](https://qr-official.line.me/sid/L/712korsz.png)
-
-具体的には下記の動画を御覧ください
-
-![Demo01](https://fffuture.work/dogreminder/images/demo01.gif)
-
-# リマインダーをつくり、あいことばを'あいて'におくりましょう
-
-![05](https://fffuture.work/dogreminder/images/05.png)
-
-![Demo02](https://fffuture.work/dogreminder/images/demo02.gif)
-
-
-# あいてに、あいことばを使ってリマインダーをセットしてもらいましょう
-
-![06](https://fffuture.work/dogreminder/images/06.png)
-
-![Demo03](https://fffuture.work/dogreminder/images/demo03.gif)
-
-# 時間になるとDog reminderから'あいて'に通知が行きます
-
-![Demo04](https://fffuture.work/dogreminder/images/demo04.gif)
-
-# Dog reminder　の話しかけかた
-
-|  話しかける言葉|  どういうときに使う? |
-| ---- | ---- |
-|  つくる|  リマインダーを作りたいとき|
-|  つくったもの|  じぶんがつくったリマインダーを確認したいとき|
-|  わたしあて|  あなたあてのリマインダーを確認したいとき|
-
-# お問い合わせ、問題など
-
-お問い合わせ、問題、ご要望などは　[こちら](https://github.com/fffuturework/dogreminder/issues/new) まで!
-
-# ライセンス
-
-[MIT License](https://github.com/fffuturework/dogreminder/blob/main/LICENSE)
+- 1. Twitterアカウント [dogbotjp](https://twitter.com/dogbotjp) をフォロー
+- 2. [dogbotjp](https://twitter.com/dogbotjp) から DMが届くのを待つ
+- 3. 参加

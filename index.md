@@ -1,5 +1,5 @@
 # 日々の面倒なルーチンワークをらくらく自動化 Dog bot
-![logo](https://fffuture.work/dogreminder/images/logo.jpg)
+![logo](./images/logo.png)
 
 # こんなことはありませんか
 

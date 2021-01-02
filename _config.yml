@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme:  jekyll-theme-hacker
 logo: https://fffuture.work/dogbot-lp/images/logo.png
 title: Dog bot ( CodeceptJS ベースのWeb RPAツールです。)
 description: 日々の面倒なルーチンワークをらくらく自動化 Dog bot

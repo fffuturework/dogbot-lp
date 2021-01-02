@@ -5,6 +5,7 @@ Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールで
 ## デモ
 ### 背景
 私は、車を持っておらず毎週土日に[タイムズカーシェア](https://share.timescar.jp/) を借りています。
+
 最大2週間先の予約が取れるので、毎週土日に二週間先の予約をWebでポチポチして予約をしています。
 
 ### 問題
@@ -103,5 +104,6 @@ module.exports = {
 ### 特徴3. つくったレシピをみんなで共有しあえる
 
 つくったレシピを[gist.github.com](https://gist.github.com) で公開して共有しあえます
+
 みんなのつくったレシピは[こちら](https://gist.github.com/search?l=JavaScript&o=desc&q=dogbot&s=updated)
 

@@ -15,7 +15,7 @@ Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールで
 
 
 ### 解決策
-これを解決したいと思い Dog botを作りました。
+Dog botでこの作業を自動化してみましょう
 
 ### レシピ
 1. タイムズカーシェアのトップページのログインボタンをクリック

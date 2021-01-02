@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# その作業、Dog bot で簡単に自動化できるかも？　日々のルーチンワークは「Dog bot」で置き換えよう
 
-You can use the [editor on GitHub](https://github.com/fffuturework/dogbot-lp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## デモ
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 特徴
+1. かんたんに書ける
+2. 環境構築がかんたん
+3. 作ったレシピをみんなで共有しあえる
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fffuturework/dogbot-lp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 特徴1.かんたんに書ける
+### 特徴2.環境構築がかんたん
+### 特徴3. 作ったレシピをみんなで共有しあえる

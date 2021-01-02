@@ -3,4 +3,5 @@ logo: https://fffuture.work/dogbot-lp/images/logo.png
 title: Dog bot (クローズドβ)
 description: 日々の面倒なルーチンワークをらくらく自動化 Dog bot
 show_downloads: false
+include: [README.md, index.md]
 google_analytics: UA-178643334-1

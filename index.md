@@ -9,11 +9,11 @@
 
 「あ、予約し忘れてた。もう車借りられないや」
 
-![01](./images/jikan_tobu_man.png)
+![JIKAN_TOBU_MAN](./images/jikan_tobu_man.png)
 
 # そんなときは　Dog bot まずは違いを御覧ください!
 
-![02](https://fffuture.work/dogreminder/images/02.png)
+![DEMO](./images/demo.gif)
 
 これで、こんな面倒な作業から開放されます。
 

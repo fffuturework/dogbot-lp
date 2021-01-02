@@ -17,7 +17,7 @@
 
 ![02](https://fffuture.work/dogreminder/images/02.png)
 
-これで面倒な作業から開放されます。
+これで、こんな面倒な作業から開放されます。
 
 さぁあなたも Dog botを始めてみませんか
 

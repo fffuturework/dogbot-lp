@@ -78,4 +78,30 @@ module.exports = {
 なぜならばベースとして使っている[CodeceptJS](https://codecept.io/) は手順書を、そのままコードに置き換えるという思想に基づいて設計されているからです。
 
 ### 特徴2.環境構築がかんたん
-### 特徴3. 作ったレシピをみんなで共有しあえる
+
+1. [Chrome driver](https://chromedriver.chromium.org/downloads) をダウンロードして立ち上げます
+2. [nodejs](https://nodejs.org/ja/download/) をセットアップします
+3. [dogbot](https://github.com/fffuturework/dogbot)をセットアップ
+
+```bash
+ $ git clone https://github.com/fffuturework/dogbot
+ $ cd dogbot
+ $ npm i
+```
+4. 実行!!
+
+```bash
+ $ TIMES_STARTHH=23 \
+ TIMES_ENDHH=11 \
+ TIMES_CARDNO1=XXXX \
+ TIMES_CARDNO2=XXXXX \
+ TIMES_PASSWORD=XXXX \
+ DB_SOURCE='https://gist.githubusercontent.com/freddiefujiwara/f5be9a6b62f123b2c2734ecdf94bd8a4/raw/c207f5c05306e35caf70184c66d0bb933746738e/dogbot-times-holiday-booking.js' \
+ npx codeceptjs run --verbose
+```
+
+### 特徴3. つくったレシピをみんなで共有しあえる
+
+つくったレシピを[gist.github.com](https://gist.github.com) で公開して共有しあえます
+みんなのつくったレシピは[こちら](https://gist.github.com/search?l=JavaScript&o=desc&q=dogbot&s=updated)
+

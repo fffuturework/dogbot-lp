@@ -27,6 +27,6 @@
 
 ## 参加方法
 
-- 1. Twitterアカウント [dogbotjp](https://twitter.com/dogbotjp) をフォロー
-- 2. [dogbotjp](https://twitter.com/dogbotjp) から DMが届くのを待つ
-- 3. 参加
+1. Twitterアカウント [dogbotjp](https://twitter.com/dogbotjp) をフォロー
+2. [dogbotjp](https://twitter.com/dogbotjp) から DMが届くのを待つ
+3. 参加

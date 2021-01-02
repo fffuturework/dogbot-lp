@@ -1,4 +1,4 @@
-# その作業、Dog bot で簡単に自動化できるかも？　日々のルーチンワークは「Dog bot」で置き換えよう
+# その作業、[Dog bot](https://github.com/dogbot) で簡単に自動化できるかも？　日々のルーチンワークは「[Dog bot](https://github.com/dogbot)」で置き換えよう
 
 Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールです。
 
@@ -16,7 +16,7 @@ Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールで
 
 
 ### 解決策
-Dog botでこの作業を自動化してみましょう
+[Dog bot](https://github.com/dogbot)でこの作業を自動化してみましょう
 
 ### レシピ
 1. タイムズカーシェアのトップページのログインボタンをクリック
@@ -25,7 +25,7 @@ Dog botでこの作業を自動化してみましょう
 4. 予約できる一番先の日付を選択して検索
 5. 利用開始時間、返却予定時間を取得し予約
 
-### 手動作業とDog botの違いを御覧ください
+### 手動作業と[Dog bot](https://github.com/dogbot)の違いを御覧ください
 
 ![DEMO](./images/demo.gif)
 
@@ -76,6 +76,7 @@ module.exports = {
 ```
 
 どうでしょう　通常のプログラミングとちがってそれとなく見やすくないですか！？
+
 なぜならばベースとして使っている[CodeceptJS](https://codecept.io/) は手順書を、そのままコードに置き換えるという思想に基づいて設計されているからです。
 
 ### 特徴2.環境構築がかんたん

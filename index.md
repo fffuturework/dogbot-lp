@@ -1,5 +1,5 @@
 # 日々の面倒なルーチンワークをらくらく自動化 Dog bot
-![logo](./images/logo.png)
+![logo](./images/icon.png)
 
 # こんなことはありませんか
 

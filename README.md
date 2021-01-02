@@ -1,4 +1,4 @@
-# その作業、[Dog bot](https://github.com/dogbot) で簡単に自動化できるかも？　日々のルーチンワークは「[Dog bot](https://github.com/dogbot)」で置き換えよう
+# その作業、[Dog bot](https://github.com/fffuturework/dogbot) で簡単に自動化できるかも？　日々のルーチンワークは「[Dog bot](https://github.com/fffuturework/dogbot)」で置き換えよう
 
 Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールです。
 
@@ -16,7 +16,7 @@ Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールで
 
 
 ### 解決策
-[Dog bot](https://github.com/dogbot)でこの作業を自動化してみましょう
+[Dog bot](https://github.com/fffuturework/dogbot)でこの作業を自動化してみましょう
 
 ### レシピ
 1. タイムズカーシェアのトップページのログインボタンをクリック
@@ -83,7 +83,7 @@ module.exports = {
 
 1. [Chrome driver](https://chromedriver.chromium.org/downloads) をダウンロードして立ち上げます
 2. [nodejs](https://nodejs.org/ja/download/) をセットアップします
-3. [dogbot](https://github.com/fffuturework/dogbot)をセットアップ
+3. [Dog bot](https://github.com/fffuturework/dogbot)をセットアップ
 
 ```bash
  $ git clone https://github.com/fffuturework/dogbot

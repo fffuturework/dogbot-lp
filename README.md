@@ -37,7 +37,7 @@ Dog botとは [CodeceptJS](https://codecept.io/) ベースのWeb RPAツールで
 
 ### 特徴1.かんたんに書ける
 
-上記のレシピをDog botのコードに置き換えてみましょう
+[さきほどのレシピ](#レシピ)をDog botのコードに置き換えてみましょう
 
 ```JavaScript
 const {

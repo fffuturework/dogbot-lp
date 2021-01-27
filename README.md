@@ -104,7 +104,7 @@ module.exports = {
 
 ### 特徴3. つくったレシピをみんなで共有しあえる
 
-つくったレシピを[gist.github.com](https://gist.github.com) で公開して共有しあえます
+つくったレシピを[gist.github.com](https://gist.github.com/search?l=JavaScript&q=dogbot) で公開して共有しあえます
 
 みんなのつくったレシピは[こちら](https://gist.github.com/search?l=JavaScript&o=desc&q=dogbot&s=updated)
 
